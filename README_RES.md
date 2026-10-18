@@ -221,5 +221,5 @@ Ajouter uniquement les fichiers réellement créés. Remplacer les noms généri
 
 **Statut :** laboratoire en cours de documentation. Les éléments configurés sont décrits ci-dessus ; les tests complémentaires indiqués restent à effectuer ou à consigner séparément.
 
-**Auteur :** à compléter  
-**Date :** à compléter
+**Auteur :** Yacoub Ahmed  
+**Date :** 18-10-2026
